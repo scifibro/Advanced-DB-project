@@ -1,5 +1,5 @@
 # CSS 348 – ADVANCED DATABASE MANAGEMENT SYSTEMS
-## Project 
+## Project name - Find.me
 
 Project goal and it's benefits:<br>
 The project provides for the search for roommates, as well as the ability to search for rooms / apartments for rent. If you are a landlord then you can arrange a room / apartment for rent.
